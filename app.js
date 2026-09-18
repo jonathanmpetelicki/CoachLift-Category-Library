@@ -13,123 +13,123 @@ let libraryExercises = exercises;
 const builtInVideos = {
   "ladder-in-in-out-out": {
     name: "Ladder In-In-Out-Out Demo",
-    url: "./assets/videos/ladder-in-in-out-out.mp4"
+    url: "./ladder-in-in-out-out.mp4"
   },
   "ladder-ickey-shuffle": {
     name: "Ladder Ickey Shuffle Demo",
-    url: "./assets/videos/ladder-ickey-shuffle.mp4"
+    url: "./ladder-ickey-shuffle.mp4"
   },
   "ladder-lateral-run": {
     name: "Ladder Lateral Run Demo",
-    url: "./assets/videos/ladder-lateral-run.mp4"
+    url: "./ladder-lateral-run.mp4"
   },
   "ladder-two-in-lateral-exit": {
     name: "Ladder Two-In Lateral Exit Demo",
-    url: "./assets/videos/ladder-two-in-lateral-exit.mp4"
+    url: "./ladder-two-in-lateral-exit.mp4"
   },
   "ladder-forward-to-backpedal-exit": {
     name: "Ladder Forward to Backpedal Exit Demo",
-    url: "./assets/videos/forward-to-backpedal-ladder.mp4"
+    url: "./forward-to-backpedal-ladder.mp4"
   },
   "ladder-single-leg-in-out": {
     name: "Ladder Single-Leg In-Out Demo",
-    url: "./assets/videos/single-leg-in-out-ladder.mp4"
+    url: "./single-leg-in-out-ladder.mp4"
   },
   "ladder-one-in-run": {
     name: "Ladder One-In Run Demo",
-    url: "./assets/videos/one-in-run-ladder.mp4"
+    url: "./one-in-run-ladder.mp4"
   },
   "ladder-two-in-linear-run": {
     name: "Ladder Two-In Linear Run Demo",
-    url: "./assets/videos/two-in-run-ladder.mp4"
+    url: "./two-in-run-ladder.mp4"
   },
   "ladder-crossover-run": {
     name: "Ladder Crossover Run Demo",
-    url: "./assets/videos/ladder-crossover-run.mp4"
+    url: "./ladder-crossover-run.mp4"
   },
   "ladder-sprint-exit": {
     name: "Ladder Sprint Exit Demo",
-    url: "./assets/videos/ladder-sprint-exit.mp4"
+    url: "./ladder-sprint-exit.mp4"
   },
   "heavy-sled-march": {
     name: "Heavy Sled March Demo",
-    url: "./assets/videos/heavy-sled-march.mp4"
+    url: "./heavy-sled-march.mp4"
   },
   "turf-bear-crawl-drag": {
     name: "Turf Bear Crawl Drag Demo",
-    url: "./assets/videos/turf-bear-crawl-drag.mp4"
+    url: "./turf-bear-crawl-drag.mp4"
   },
   "sled-drive-for-distance": {
     name: "Sled Drive for Distance Demo",
-    url: "./assets/videos/sled-drive-for-distance.mp4"
+    url: "./sled-drive-for-distance.mp4"
   },
   "split-stance-sled-hold-drive": {
     name: "Split-Stance Sled Hold Drive Demo",
-    url: "./assets/videos/sled-drive-for-distance.mp4"
+    url: "./sled-drive-for-distance.mp4"
   },
   "sled-backward-drag": {
     name: "Sled Backward Drag Demo",
-    url: "./assets/videos/sled-backward-drag.mp4"
+    url: "./sled-backward-drag.mp4"
   },
   "sled-high-handle-power-push": {
     name: "Sled High-Handle Power Push Demo",
-    url: "./assets/videos/sled-high-handle-power-push.mp4"
+    url: "./sled-high-handle-power-push.mp4"
   },
   "sled-forward-lean-hold": {
     name: "Sled Forward Lean Hold Demo",
-    url: "./assets/videos/sled-forward-lean-hold.mp4"
+    url: "./sled-forward-lean-hold.mp4"
   },
   "sled-march-and-hold": {
     name: "Sled March and Hold Demo",
-    url: "./assets/videos/sled-march-and-hold.mp4"
+    url: "./sled-march-and-hold.mp4"
   },
   "sled-push-iso-steps": {
     name: "Sled Push Iso Steps Demo",
-    url: "./assets/videos/sled-push-iso-steps.mp4"
+    url: "./sled-push-iso-steps.mp4"
   },
   "sled-backward-drag-pause": {
     name: "Sled Backward Drag Pause Demo",
-    url: "./assets/videos/sled-backward-drag-pause.mp4"
+    url: "./sled-backward-drag-pause.mp4"
   },
   "sled-sprint-start": {
     name: "Sled Sprint Start Demo",
-    url: "./assets/videos/sled-sprint-start.mp4"
+    url: "./sled-sprint-start.mp4"
   },
   "sled-march-to-sprint-release": {
     name: "Sled March to Sprint Release Demo",
-    url: "./assets/videos/sled-march-to-sprint-release.mp4"
+    url: "./sled-march-to-sprint-release.mp4"
   },
   "3-cone-burst-cut": {
     name: "3-Cone Burst Cut Demo",
-    url: "./assets/videos/3-cone-burst-cut.mp4"
+    url: "./3-cone-burst-cut.mp4"
   },
   "10-yard-turf-acceleration-build": {
     name: "10-Yard Turf Acceleration Build Demo",
-    url: "./assets/videos/10-yard-turf-acceleration-build.mp4"
+    url: "./10-yard-turf-acceleration-build.mp4"
   },
   "basketball-closeout-to-backpedal": {
     name: "Basketball Closeout to Backpedal Demo",
-    url: "./assets/videos/basketball-closeout-to-backpedal.mp4"
+    url: "./basketball-closeout-to-backpedal.mp4"
   },
   "5-10-5-shuttle": {
     name: "5-10-5 Shuttle Demo",
-    url: "./assets/videos/5-10-5-shuttle.mov"
+    url: "./5-10-5-shuttle.mov"
   },
   "cone-weave-acceleration": {
     name: "Cone Weave Acceleration Demo",
-    url: "./assets/videos/cone-weave-acceleration.mp4"
+    url: "./cone-weave-acceleration.mp4"
   },
   "partner-point-and-go-shuffle": {
     name: "Partner Point-and-Go Shuffle Demo",
-    url: "./assets/videos/partner-point-and-go-shuffle.mp4"
+    url: "./partner-point-and-go-shuffle.mp4"
   },
   "three-step-decel-to-cut": {
     name: "Three-Step Decel to Cut Demo",
-    url: "./assets/videos/three-step-decel-to-cut.mp4"
+    url: "./three-step-decel-to-cut.mp4"
   },
   "cone-box-carioca-series": {
     name: "Cone Box Carioca Series Demo",
-    url: "./assets/videos/cone-box-carioca-series.mp4"
+    url: "./cone-box-carioca-series.mp4"
   }
 };
 
