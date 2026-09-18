@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CoachLift Exercise Database</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700&family=Manrope:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="home">
+    <div class="page-shell">
+      <header class="home-header">
+        <nav class="topbar">
+          <div class="brand">
+            <span class="brand-mark">CL</span>
+            <div>
+              <p class="eyebrow">Coach Performance Library</p>
+              <h1>CoachLift Exercise Database</h1>
+            </div>
+          </div>
+          <a class="ghost-link" href="#category-library">Browse Categories</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="control-panel category-library category-library-simple" id="category-library">
+          <div>
+            <p class="section-tag">Category Library</p>
+            <h3>Open a category</h3>
+            <p class="library-copy">
+              Choose the training quality first, then filter that page by sport and equipment.
+            </p>
+          </div>
+          <div class="category-grid category-grid-large" id="category-library-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
